@@ -4,10 +4,10 @@ Almost everything we're doing today comes from Chris Pine's book _Learn to Progr
 
 # What We Covered
 
-- [01_puts_and_numbers.rb](Puts and Numbers)
-- [02_strings.rb](Strings)
-- [03_variables.rb](Variables)
-- [04_combinations.rb](Combinations)
+- [Puts and Numbers](01_puts_and_numbers.rb)
+- [Strings](02_strings.rb)
+- [Variables](03_variables.rb)
+- [Combinations](04_combinations.rb)
 
 # What's Next
 
