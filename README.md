@@ -19,6 +19,8 @@ Almost everything we're doing today comes from Chris Pine's book _Learn to Progr
 
 I recommend reading all of _Learn To Program_, and doing the exercises. Once you're done with that, check out [http://tryruby.org/levels/1/challenges/1](Try Ruby), a fun, guided introduction to more Ruby than we covered today.
 
+The [CodeNewbie](http://www.codenewbie.org) group is a fantastic resource for new programmers. They have weekly twitter conversations, online slack conversations, a podcast and in-person meetups.
+
 After that, there are a variety of places where you can take coding classes, or watch lessons, for free.
 
 - https://www.khanacademy.org
