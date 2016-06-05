@@ -122,13 +122,13 @@
 #
 #
 # Type
-# my_shirt = drawer.delete(2)
+# my_shirt = drawer.delete_at(2)
 # puts my_shirt
 # puts drawer
 #
 #
 #
-# `delete`, despite the scary name, does exactly what I want. It takes shirt out of the drawer and gives it to us.
+# `delete_at`, despite the scary name, does exactly what I want. It takes shirt out of the drawer and gives it to us.
 #
 #
 # Questions
