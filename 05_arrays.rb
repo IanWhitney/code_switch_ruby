@@ -136,4 +136,4 @@
 # Exercise
 #
 # Create an array that contains each of the student's names
-# Then display each of their names
+# Then display each of their names in ALL CAPS
