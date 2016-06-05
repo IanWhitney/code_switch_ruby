@@ -6,19 +6,19 @@ Almost everything we're doing today comes from Chris Pine's book _Learn to Progr
 
 ## What We Covered
 
-- [Puts and Numbers](01_puts_and_numbers.rb)
+- Puts and Numbers
   - https://repl.it/CYN6
-- [Strings](02_strings.rb)
+- Strings
   - https://repl.it/CYN7
-- [Variables](03_variables.rb)
+- Variables
   - https://repl.it/CYN8
-- [Combinations](04_combinations.rb)
+- Combinations
   - https://repl.it/CYN9
-- [Arrays](05_arrays.rb)
+- Arrays
   - https://repl.it/CY7J
-- [Each](06_each.rb)
+- Each
   - https://repl.it/CY7K
-- [Hashes](07_hashes.rb)
+- Hashes
   - https://repl.it/CY7R
 
 ## What's Next
