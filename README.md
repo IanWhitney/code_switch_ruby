@@ -32,6 +32,7 @@ After that, there are a variety of places where you can take coding classes, or 
 - https://www.khanacademy.org
 - https://www.udacity.com/courses/all
 - https://www.lynda.com (free if you have a [Hennepin library card](http://www.hclib.org/browse/online-resources/online%20resources%20container/online%20resources/online-resources-k-n/lynda-com), a [St. Paul library card](http://www.sppl.org/lynda), or attend/work at the [University of Minnesota](http://it.umn.edu/lyndacom-online-courses-0))
+- https://bootcamp.umn.edu The UMN offers a part time bootcamp
 
 If you're looking for programming problems to practice on, I recommend [http://exercism.io](http://exercism.io). It's a free source of programming problems in over 30 languages. Even better, you can get feedback on your solutions and see the solutions provided by other students, which is a fantastic way to learn.
 
